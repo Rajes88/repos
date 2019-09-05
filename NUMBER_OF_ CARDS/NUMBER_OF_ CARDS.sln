@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUMBER_OF_ CARDS", "NUMBER_OF_ CARDS.csproj", "{13C64428-2BF1-4F7A-87C1-2CED62443D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C64428-2BF1-4F7A-87C1-2CED62443D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C64428-2BF1-4F7A-87C1-2CED62443D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C64428-2BF1-4F7A-87C1-2CED62443D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C64428-2BF1-4F7A-87C1-2CED62443D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE833846-BAD3-4594-ADDA-7A0BE96FAE57}
+	EndGlobalSection
+EndGlobal
